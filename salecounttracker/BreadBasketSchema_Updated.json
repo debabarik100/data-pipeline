@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "item_id",
+		"type" : "INTEGER"
+	},
+	{
+		"name" : "item",
+		"type" : "STRING"
+	},
+	{
+		"name" : "sale_count",
+		"type" : "INTEGER"
+	}
+]
